@@ -4,83 +4,83 @@
         "Description": "A classic black leather jacket with a worn-in look.",
         "Size": "Medium",
         "Price": 50,
-        "Category": ["Clothing"]
+        "Categories": ["Clothing"]
     },
     {
         "Name": "Graphic T-shirt",
         "Description": "A stylish graphic print T-shirt featuring unique artwork.",
         "Size": "Large",
         "Price": 12,
-        "Category": ["Clothing"]
+        "Categories": ["Clothing"]
     },
     {
         "Name": "Vintage Denim Jeans",
         "Description": "Classic denim jeans from the '80s with a relaxed fit.",
         "Size": "Women’s 4",
         "Price": 20,
-        "Category": ["Clothing", "Vintage"]
+        "Categories": ["Clothing", "Vintage"]
     },
     {
         "Name": "Vintage Polaroid Camera",
         "Description": "A classic Polaroid camera for instant photos.",
         "Size": "One size",
         "Price": 40,
-        "Category": ["Electronics", "Vintage"]
+        "Categories": ["Electronics", "Vintage"]
     },
     {
         "Name": "Retro Roller Skates",
         "Description": "Old-school roller skates with colorful wheels.",
         "Size": "One size",
         "Price": 30,
-        "Category": ["Sports", "Vintage", "Footwear"]
+        "Categories": ["Sports", "Vintage", "Footwear"]
     },
     {
         "Name": "Leather Boots",
         "Description": "Stylish leather boots with a distressed look and comfortable fit.",
         "Size": "One size",
         "Price": 25,
-        "Category": ["Footwear"]
+        "Categories": ["Footwear"]
     },
     {
         "Name": "Designer Handbag",
         "Description": "A high-quality leather handbag with a chic design and ample storage.",
         "Size": "One size",
         "Price": 65,
-        "Category": ["Accessories"]
+        "Categories": ["Accessories"]
     },
     {
         "Name": "Elegant Evening Dress",
         "Description": "An elegant evening dress perfect for formal occasions.",
         "Size": "Small",
         "Price": 55,
-        "Category": ["Clothing"]
+        "Categories": ["Clothing"]
     },
     {
         "Name": "Antique Pocket Watch",
         "Description": "An exquisite antique pocket watch with intricate engravings.",
         "Size": "One size",
         "Price": 75,
-        "Category": ["Accessories", "Vintage"]
+        "Categories": ["Accessories", "Vintage"]
     },
     {
         "Name": "Handmade Ceramic Vase",
         "Description": "A beautifully crafted ceramic vase with a unique hand-painted design.",
         "Size": "One size",
         "Price": 35,
-        "Category": ["Home Decor"]
+        "Categories": ["Home Decor"]
     },
     {
         "Name": "Leather Backpack",
         "Description": "A leather backpack with multiple compartments for storage.",
         "Size": "One size",
         "Price": 60,
-        "Category": ["Accessories"]
+        "Categories": ["Accessories"]
     },
     {
         "Name": "Men's Dress Shirt",
         "Description": "A classic men's dress shirt for formal occasions.",
         "Size": "Large",
         "Price": 30,
-        "Category": ["Clothing"]
+        "Categories": ["Clothing"]
     }
 ]
